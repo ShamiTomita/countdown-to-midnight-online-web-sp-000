@@ -13,7 +13,7 @@ end
 y = 0 
 
 def countdown_with_sleep(y)
-  sleep(5.sec)
+  sleep(5)
   while y < 5 
   puts "#{x} sheep"
 end
