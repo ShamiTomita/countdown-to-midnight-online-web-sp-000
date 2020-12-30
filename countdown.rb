@@ -13,5 +13,5 @@ end
 y = 0 
 def countdown_with_sleep
   while y < 5 
-  sleep(1.sec)
+  sleep(1_sec)
 end 
